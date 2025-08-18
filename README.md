@@ -74,9 +74,6 @@ Each entry consists of:
   - Confusion Matrix
 - Compared BiLSTM and BERT performances
 
----
-
-
 
 ---
 
