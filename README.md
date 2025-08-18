@@ -4,7 +4,7 @@
 
 This project is licensed under the **Apache License 2.0**. See the [LICENSE](./LICENSE) file for more details.
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 This project focuses on detecting cyberbullying across social media platforms, specifically **Twitter** and **Instagram**. It leverages state-of-the-art **Natural Language Processing (NLP)** techniques and **deep learning models** such as **BiLSTM** and **BERT** to classify text data for signs of cyberbullying.
 
